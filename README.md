@@ -6,7 +6,8 @@ Per compilare il file .Rmd, che consente di replicare le analisi sul file csv, b
 Tuttavia anche solo copiare e incollare il codice R dal file .html in un qualsiasi compiler di R, come Kaggle, dopo aver caricato i dati, consente di replicare tutti i risultati.
 
 Per i soli dati dal 2021 al 2023 è disponibile un'app interattiva per osservare i dati: [repaxBurger](https://fede-rausa.github.io/shinyRepax/)
-E il repo associato è [RepaxDatiPaninoteca](https://github.com/Fede-Rausa/RepaxDatiPaninoteca/tree/main)
+E il repo associato è 
+[RepaxDatiPaninoteca](https://github.com/Fede-Rausa/RepaxDatiPaninoteca/tree/main)
 
 
 
